@@ -22,7 +22,7 @@ Text-based program that will run within the Terminal/CMD Prompt.
 - Process user text input
 
 # Diagnosis Algorithm
-A picture from a source depicting the algorithm
+![diagnosis_flow_diagram](https://user-images.githubusercontent.com/63488970/223243666-64cb5507-47be-4aed-90d3-0bc090f38e93.png)
 
 # Project Implementation 1
 - Text input & Output
