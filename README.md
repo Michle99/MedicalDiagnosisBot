@@ -1,4 +1,4 @@
-# Medical Diagnosis Bot
+# Simple Medical Diagnosis Bot
 
 # Project Definition 1
 We want to diagnose a user's state of dehydration based on a short
